@@ -33,6 +33,6 @@ To develop the application, use the below-given stack:
 4. Send the deployed project link and Github Project link on [hr@mtechzilla.com](hr@mtechzilla.com).
 5. Any input fields used, should have client-side validation.
 
-**Plagiarism is
+**The timeline to complete this app is a maximum of two days. Plagiarism is
 prohibited and if an applicant submits a plagiarised work then his application
 will be rejected.**
